@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+
 class Token
 {
     public  int Priority { get; }
